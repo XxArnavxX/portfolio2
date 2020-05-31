@@ -1,0 +1,13 @@
+.name{
+    background-color: lightblue;
+    display: flex;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
